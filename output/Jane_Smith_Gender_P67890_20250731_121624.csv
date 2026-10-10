@@ -1,0 +1,18 @@
+PATIENT INFORMATION
+Patient ID,P67890
+Name,Jane Smith Gender
+Gender,Female
+Age,28
+Height,162
+Weight,58
+Test Date,2024-08-15
+Previous Test Date,2024-04-12
+
+TEST RESULTS
+Test Name,Value,Unit,Reference Range,Status
+Hemoglobin,12.9,g/dL,12-16,
+WBC,6800,cells/cu mm,4000-11000,
+Platelet Count,2.3,lakh/cu mm,1.5-4.0,
+Blood Sugar (Fasting),88,mg/dL,70-110,
+Cholesterol,190,mg/dL,<200,
+mm Platelet Count,2.3,lakhlcu,Not specified,
