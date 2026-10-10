@@ -1,0 +1,20 @@
+=== RAW EXTRACTED TEXT FROM Jane_Smith_Lab_Report.pdf ===
+
+--- Page 1 (OCR) ---
+Lab Report
+Patient ID: P67890
+Name: Jane Smith
+Gender: Female
+Age: 28
+Height: 162 cm
+Weight: 58 kg
+Test Date: 2024-08-15
+Previous Test Date: 2024-04-12
+Lab Report:
+Hemoglobin: 12.9 gldL
+WBC: 6800 cellslcu mm
+Platelet Count: 2.3 lakhlcu mm
+Blood Sugar (Fasting): 88 mgldL
+Cholesterol: 190 mgldL
+Doctor's Notes: Patient is stable. Slight improvement from last test
+

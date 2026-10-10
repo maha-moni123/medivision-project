@@ -1,0 +1,19 @@
+=== RAW EXTRACTED TEXT FROM Priya_Kumar_lab_report.pdf ===
+
+--- Page 1 (OCR) ---
+ABC Diagnostics Lab Report
+Patient ID: P1001
+Name: Priya Kumar
+Gender: Female
+Age: 29
+Height: 164
+Weight: 58
+Test Date: 2024-08-20
+Previous Test Date: 2023-12-10
+Test Results
+Hemoglobin: 13.4 gldL (Ref: 12-16)
+WBC: 7200 cellslcu mm (Ref: 4000-11000)
+Platelet Count: 2.3 lakhlcu mm (Ref: 1.5-4.0)
+Blood Sugar (Fasting): 90 mg/dL (Ref: 70-110)
+Cholesterol: 174 mg/dL (Ref: <200)
+

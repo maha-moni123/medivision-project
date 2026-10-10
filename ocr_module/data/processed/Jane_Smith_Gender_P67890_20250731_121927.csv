@@ -1,0 +1,14 @@
+Patient ID,Name,Gender,Age,Height,Weight,Test Date,Previous Test Date,Test Name,Value,Unit,Reference Range
+P67890,"Jane Smith
+Gender",Female,1,162,58,2024-08-15,2024-04-12,Hemoglobin,12.9,g/dL,12-16
+P67890,"Jane Smith
+Gender",Female,1,162,58,2024-08-15,2024-04-12,WBC,6800,cells/cu mm,4000-11000
+P67890,"Jane Smith
+Gender",Female,1,162,58,2024-08-15,2024-04-12,Platelet Count,2.3,lakh/cu mm,1.5-4.0
+P67890,"Jane Smith
+Gender",Female,1,162,58,2024-08-15,2024-04-12,Blood Sugar (Fasting),88,mg/dL,70-110
+P67890,"Jane Smith
+Gender",Female,1,162,58,2024-08-15,2024-04-12,Cholesterol,190,mg/dL,<200
+P67890,"Jane Smith
+Gender",Female,1,162,58,2024-08-15,2024-04-12,"mm
+Platelet Count",2.3,lakhlcu,Not specified
